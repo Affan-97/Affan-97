@@ -5,8 +5,9 @@
 <span style="font-size:40px">an Informatics Engineering student at Dian Nuswantoro University, Semarang.</span>
 
 <hr />
-- 🌱 I’m currently learning  ```lot of thing```
 
+- 🌱 I’m currently learning  ```lot of thing```
+  
 - 👨‍💻 All of my projects are available at [https://affan97.vercel.app](https://affan97.vercel.app/)
 
 # 📊 GitHub Stats:
