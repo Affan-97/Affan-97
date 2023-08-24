@@ -6,7 +6,7 @@
 
 <hr />
 
-- 🌱 I’m currently learning  ```lot of thing```
+- 🌱 I’m currently learning  ```Next Js```
   
 - 👨‍💻 All of my projects are available at [https://affan97.vercel.app](https://affan97.vercel.app/)
 
