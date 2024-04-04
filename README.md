@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Affan Abdullah Izzuddin</h1>
 <h3 align="center">A Mobile and Web developer</h3>
  
-<span style="font-size:40px">an Informatics Engineering student at Dian Nuswantoro University, Semarang.</span>
+<span style="font-size:40px">an Freash Graduate Bachelor of Informatics Engineering at Dian Nuswantoro University, Semarang.</span>
 
 <hr />
 
 - 🌱 I’m currently learning  ```Next Js```
   
-- 👨‍💻 All of my projects are available at [https://affan97.vercel.app](https://affan97.vercel.app/)
+- 👨‍💻 All of my projects are available at [affanabdullah.vercel.app](https://affanabdullah.vercel.app/)
 
 # 📊 GitHub Stats:
 <p>
