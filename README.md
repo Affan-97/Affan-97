@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Affan Abdullah Izzuddin</h1>
 <h3 align="center">A Mobile and Web developer</h3>
  
-<span style="font-size:40px">an Freash Graduate Bachelor of Informatics Engineering at Dian Nuswantoro University, Semarang.</span>
+<span style="font-size:40px">an Fresh Graduate Bachelor of Informatics Engineering at Dian Nuswantoro University, Semarang.</span>
 
 <hr />
 
